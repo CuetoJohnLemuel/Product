@@ -5,7 +5,7 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
-$routes->get('/', 'ProductCrud::index');
+$routes->get('products-list', 'ProductCrud::index');
 $routes->get('products-form', 'ProductCrud::create');
 $routes->post('submit-form', 'ProductCrud::store');
 $routes->get('edit-view/(:num)', 'ProductCrud::singleUser/$1');
