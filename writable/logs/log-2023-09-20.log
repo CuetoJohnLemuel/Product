@@ -1,0 +1,138 @@
+CRITICAL - 2023-09-20 14:58:33 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:01:11 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:17 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:18 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:18 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:18 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:18 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:03:19 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:04:55 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:04:56 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:06:18 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:06:19 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:06:19 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:06:20 --> Class "App\Models\ProductModel" not found
+in APPPATH\Controllers\ProductCrud.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:07:18 --> Undefined variable $ProductModel
+in APPPATH\Controllers\ProductCrud.php on line 10.
+ 1 APPPATH\Controllers\ProductCrud.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ProductModel', 'D:\\laragon\\www\\crud\\app\\Controllers\\ProductCrud.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:07:19 --> Undefined variable $ProductModel
+in APPPATH\Controllers\ProductCrud.php on line 10.
+ 1 APPPATH\Controllers\ProductCrud.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ProductModel', 'D:\\laragon\\www\\crud\\app\\Controllers\\ProductCrud.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:08:38 --> Undefined variable $user
+in APPPATH\Views\product_view.php on line 40.
+ 1 APPPATH\Views\product_view.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'D:\\laragon\\www\\crud\\app\\Views\\product_view.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\laragon\\www\\crud\\app\\Views\\product_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('product_view', [], true)
+ 5 APPPATH\Controllers\ProductCrud.php(11): view('product_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
+CRITICAL - 2023-09-20 15:08:38 --> Undefined variable $user
+in APPPATH\Views\product_view.php on line 40.
+ 1 APPPATH\Views\product_view.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'D:\\laragon\\www\\crud\\app\\Views\\product_view.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\laragon\\www\\crud\\app\\Views\\product_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('product_view', [], true)
+ 5 APPPATH\Controllers\ProductCrud.php(11): view('product_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductCrud->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductCrud))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\laragon\\www\\crud\\public\\index.php')
